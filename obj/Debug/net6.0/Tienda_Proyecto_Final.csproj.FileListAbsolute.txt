@@ -1,0 +1,15 @@
+C:\Users\lenin\source\repos\Tienda_Proyecto_Final\Tienda_Proyecto_Final\bin\Debug\net6.0\Tienda_Proyecto_Final.exe
+C:\Users\lenin\source\repos\Tienda_Proyecto_Final\Tienda_Proyecto_Final\bin\Debug\net6.0\Tienda_Proyecto_Final.deps.json
+C:\Users\lenin\source\repos\Tienda_Proyecto_Final\Tienda_Proyecto_Final\bin\Debug\net6.0\Tienda_Proyecto_Final.runtimeconfig.json
+C:\Users\lenin\source\repos\Tienda_Proyecto_Final\Tienda_Proyecto_Final\bin\Debug\net6.0\Tienda_Proyecto_Final.dll
+C:\Users\lenin\source\repos\Tienda_Proyecto_Final\Tienda_Proyecto_Final\bin\Debug\net6.0\Tienda_Proyecto_Final.pdb
+C:\Users\lenin\source\repos\Tienda_Proyecto_Final\Tienda_Proyecto_Final\obj\Debug\net6.0\Tienda_Proyecto_Final.csproj.AssemblyReference.cache
+C:\Users\lenin\source\repos\Tienda_Proyecto_Final\Tienda_Proyecto_Final\obj\Debug\net6.0\Tienda_Proyecto_Final.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lenin\source\repos\Tienda_Proyecto_Final\Tienda_Proyecto_Final\obj\Debug\net6.0\Tienda_Proyecto_Final.AssemblyInfoInputs.cache
+C:\Users\lenin\source\repos\Tienda_Proyecto_Final\Tienda_Proyecto_Final\obj\Debug\net6.0\Tienda_Proyecto_Final.AssemblyInfo.cs
+C:\Users\lenin\source\repos\Tienda_Proyecto_Final\Tienda_Proyecto_Final\obj\Debug\net6.0\Tienda_Proyecto_Final.csproj.CoreCompileInputs.cache
+C:\Users\lenin\source\repos\Tienda_Proyecto_Final\Tienda_Proyecto_Final\obj\Debug\net6.0\Tienda_Proyecto_Final.dll
+C:\Users\lenin\source\repos\Tienda_Proyecto_Final\Tienda_Proyecto_Final\obj\Debug\net6.0\refint\Tienda_Proyecto_Final.dll
+C:\Users\lenin\source\repos\Tienda_Proyecto_Final\Tienda_Proyecto_Final\obj\Debug\net6.0\Tienda_Proyecto_Final.pdb
+C:\Users\lenin\source\repos\Tienda_Proyecto_Final\Tienda_Proyecto_Final\obj\Debug\net6.0\Tienda_Proyecto_Final.genruntimeconfig.cache
+C:\Users\lenin\source\repos\Tienda_Proyecto_Final\Tienda_Proyecto_Final\obj\Debug\net6.0\ref\Tienda_Proyecto_Final.dll
